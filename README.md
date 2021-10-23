@@ -35,3 +35,9 @@
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 07. 重建二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/07.%20%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
+
+# 6. 栈、队列
+
+|                             题目                             | 难度 |
+| :----------------------------------------------------------: | :--: |
+| [剑指 Offer 09. 用两个栈实现队列](https://github.com/lzxjack/coding-interviews/blob/master/problems/09.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) | 简单 |
