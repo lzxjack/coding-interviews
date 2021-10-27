@@ -6,4 +6,3 @@ const printNumbers = n => {
     }
     return res;
 };
-printNumbers(1);

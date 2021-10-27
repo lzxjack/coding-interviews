@@ -3,7 +3,7 @@ const deleteNode = (head, val) => {
     const res = new ListNode(-1);
     // 虚拟节点连接到head
     res.next = head;
-    // 定义p指针，最开始指向虚拟节点天头部
+    // 定义p指针，最开始指向虚拟节点
     let p = res;
     // 遍历链表
     while (p?.next) {

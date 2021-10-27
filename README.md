@@ -18,6 +18,9 @@
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 05. 替换空格](https://github.com/lzxjack/coding-interviews/blob/master/problems/05.%20%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md) | 简单 |
+|        剑指 Offer 21. 调整数组顺序使奇数位于偶数前面         | 简单 |
+|              剑指 Offer 22. 链表中倒数第k个节点              | 简单 |
+|              剑指 Offer 25. 合并两个排序的链表               | 简单 |
 
 # 3. Set()
 
@@ -30,6 +33,8 @@
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 06. 从尾到头打印链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/06.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单 |
+|                剑指 Offer 18. 删除链表的节点                 | 简单 |
+|                   剑指 Offer 24. 反转链表                    | 简单 |
 
 # 5. 递归
 
@@ -37,6 +42,8 @@
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 07. 重建二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/07.%20%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/lzxjack/coding-interviews/blob/master/problems/16.%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md) | 中等 |
+|                  剑指 Offer 26. 树的子结构                   | 中等 |
+|                 剑指 Offer 27. 二叉树的镜像                  | 简单 |
 
 # 6. 栈、队列
 
@@ -70,3 +77,4 @@
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/lzxjack/coding-interviews/blob/master/problems/15.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md) | 简单 |
+|             剑指 Offer 17. 打印从1到最大的n位数              | 简单 |
