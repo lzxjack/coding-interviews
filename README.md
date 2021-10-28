@@ -44,15 +44,15 @@
 | [剑指 Offer 16. 数值的整数次方](https://github.com/lzxjack/coding-interviews/blob/master/problems/16.%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md) | 中等 |
 | [剑指 Offer 26. 树的子结构](https://github.com/lzxjack/coding-interviews/blob/master/problems/26.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/lzxjack/coding-interviews/blob/master/problems/27.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md) | 简单 |
-|                 剑指 Offer 28. 对称的二叉树                  | 简单 |
+| [剑指 Offer 28. 对称的二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/28.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 简单 |
 
 # 6. 栈、队列
 
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/lzxjack/coding-interviews/blob/master/problems/09.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) | 简单 |
-|                剑指 Offer 30. 包含min函数的栈                | 简单 |
-|              剑指 Offer 31. 栈的压入、弹出序列               | 中等 |
+| [剑指 Offer 30. 包含min函数的栈](https://github.com/lzxjack/coding-interviews/blob/master/problems/30.%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md) | 简单 |
+| [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/lzxjack/coding-interviews/blob/master/problems/31.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md) | 中等 |
 
 # 7. 动态规划
 
@@ -84,15 +84,14 @@
 
 # 11. 矩阵
 
-|             题目              | 难度 |
-| :---------------------------: | :--: |
-| 剑指 Offer 29. 顺时针打印矩阵 | 简单 |
-|                               |      |
+|                             题目                             | 难度 |
+| :----------------------------------------------------------: | :--: |
+| [剑指 Offer 29. 顺时针打印矩阵](https://github.com/lzxjack/coding-interviews/blob/master/problems/29.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md) | 简单 |
 
 # 12. 树
 
-|                    题目                     | 难度 |
-| :-----------------------------------------: | :--: |
-|    剑指 Offer 32 - I. 从上到下打印二叉树    | 中等 |
-|  剑指 Offer 32 - II. 从上到下打印二叉树 II  | 简单 |
-| 剑指 Offer 32 - III. 从上到下打印二叉树 III | 中等 |
+|                             题目                             | 难度 |
+| :----------------------------------------------------------: | :--: |
+| [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20I.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
+| [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20II.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II.md) | 简单 |
+| [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20III.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20III.md) | 中等 |
