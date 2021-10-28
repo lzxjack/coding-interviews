@@ -30,11 +30,13 @@
 
 # 4. 链表
 
-|                             题目                             | 难度 |
-| :----------------------------------------------------------: | :--: |
-| [剑指 Offer 06. 从尾到头打印链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/06.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单 |
-| [剑指 Offer 18. 删除链表的节点](https://github.com/lzxjack/coding-interviews/blob/master/problems/18.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.md) | 简单 |
-| [剑指 Offer 24. 反转链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/24.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 简单 |
+|                             题目                             | 难度  |
+| :----------------------------------------------------------: | :---: |
+| [剑指 Offer 06. 从尾到头打印链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/06.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单  |
+| [剑指 Offer 18. 删除链表的节点](https://github.com/lzxjack/coding-interviews/blob/master/problems/18.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.md) | 简单  |
+| [剑指 Offer 24. 反转链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/24.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 简单  |
+|                剑指 Offer 35. 复杂链表的复制                 | 中等  |
+|             剑指 Offer 36. 二叉搜索树与双向链表              | *中等 |
 
 # 5. 递归
 
@@ -45,6 +47,8 @@
 | [剑指 Offer 26. 树的子结构](https://github.com/lzxjack/coding-interviews/blob/master/problems/26.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/lzxjack/coding-interviews/blob/master/problems/27.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md) | 简单 |
 | [剑指 Offer 28. 对称的二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/28.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 简单 |
+|           剑指 Offer 33. 二叉搜索树的后序遍历序列            | 中等 |
+|                 剑指 Offer 38. 字符串的排列                  | 中等 |
 
 # 6. 栈、队列
 
@@ -68,30 +72,37 @@
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 14- II. 剪绳子 II](https://github.com/lzxjack/coding-interviews/blob/master/problems/14-%20II.%20%E5%89%AA%E7%BB%B3%E5%AD%90%20II.md) | 中等 |
 
-# 9. DFS深度优先遍历
+# 9. 回溯算法
+
+|                  题目                   | 难度 |
+| :-------------------------------------: | :--: |
+| 剑指 Offer 34. 二叉树中和为某一值的路径 | 中等 |
+
+# 10. DFS深度优先遍历
 
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 12. 矩阵中的路径](https://github.com/lzxjack/coding-interviews/blob/master/problems/12.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/lzxjack/coding-interviews/blob/master/problems/13.%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md) | 中等 |
 
-# 10. 位运算、数学技巧
+# 11. 位运算、数学技巧
 
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/lzxjack/coding-interviews/blob/master/problems/15.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md) | 简单 |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/lzxjack/coding-interviews/blob/master/problems/17.%20%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.md) | 简单 |
 
-# 11. 矩阵
+# 12. 矩阵
 
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 29. 顺时针打印矩阵](https://github.com/lzxjack/coding-interviews/blob/master/problems/29.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md) | 简单 |
 
-# 12. 树
+# 13. 树
 
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20I.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20II.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II.md) | 简单 |
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20III.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20III.md) | 中等 |
+|                                                              |      |
