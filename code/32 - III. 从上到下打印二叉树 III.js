@@ -15,8 +15,8 @@ const levelOrder = root => {
             // 根节点加入res栈顶元素
             res[res.length - 1].push(n.val);
             // 队头左右节点入队
-            if (n.left) q.push(n.left);
-            if (n.right) q.push(n.right);
+            n.left && q.push(n.left);
+            n.right && q.push(n.right);
         }
         // 每隔一层，反转一次
         flag && res[res.length - 1].reverse();
