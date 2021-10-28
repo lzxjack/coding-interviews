@@ -35,8 +35,8 @@
 | [剑指 Offer 06. 从尾到头打印链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/06.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单  |
 | [剑指 Offer 18. 删除链表的节点](https://github.com/lzxjack/coding-interviews/blob/master/problems/18.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.md) | 简单  |
 | [剑指 Offer 24. 反转链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/24.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 简单  |
-|                剑指 Offer 35. 复杂链表的复制                 | 中等  |
-|             剑指 Offer 36. 二叉搜索树与双向链表              | *中等 |
+| [剑指 Offer 35. 复杂链表的复制](https://github.com/lzxjack/coding-interviews/blob/master/problems/35.%20%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md) | 中等  |
+| [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/lzxjack/coding-interviews/blob/master/problems/36.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md) | *中等 |
 
 # 5. 递归
 
@@ -47,8 +47,8 @@
 | [剑指 Offer 26. 树的子结构](https://github.com/lzxjack/coding-interviews/blob/master/problems/26.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/lzxjack/coding-interviews/blob/master/problems/27.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md) | 简单 |
 | [剑指 Offer 28. 对称的二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/28.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 简单 |
-|           剑指 Offer 33. 二叉搜索树的后序遍历序列            | 中等 |
-|                 剑指 Offer 38. 字符串的排列                  | 中等 |
+| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/lzxjack/coding-interviews/blob/master/problems/33.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md) | 中等 |
+| [剑指 Offer 38. 字符串的排列](https://github.com/lzxjack/coding-interviews/blob/master/problems/38.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 中等 |
 
 # 6. 栈、队列
 
@@ -74,9 +74,9 @@
 
 # 9. 回溯算法
 
-|                  题目                   | 难度 |
-| :-------------------------------------: | :--: |
-| 剑指 Offer 34. 二叉树中和为某一值的路径 | 中等 |
+|                             题目                             | 难度 |
+| :----------------------------------------------------------: | :--: |
+| [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/lzxjack/coding-interviews/blob/master/problems/34.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
 
 # 10. DFS深度优先遍历
 
