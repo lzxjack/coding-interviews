@@ -44,12 +44,15 @@
 | [剑指 Offer 16. 数值的整数次方](https://github.com/lzxjack/coding-interviews/blob/master/problems/16.%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md) | 中等 |
 | [剑指 Offer 26. 树的子结构](https://github.com/lzxjack/coding-interviews/blob/master/problems/26.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/lzxjack/coding-interviews/blob/master/problems/27.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md) | 简单 |
+|                 剑指 Offer 28. 对称的二叉树                  | 简单 |
 
 # 6. 栈、队列
 
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/lzxjack/coding-interviews/blob/master/problems/09.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) | 简单 |
+|                剑指 Offer 30. 包含min函数的栈                | 简单 |
+|              剑指 Offer 31. 栈的压入、弹出序列               | 中等 |
 
 # 7. 动态规划
 
@@ -78,3 +81,10 @@
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/lzxjack/coding-interviews/blob/master/problems/15.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md) | 简单 |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/lzxjack/coding-interviews/blob/master/problems/17.%20%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.md) | 简单 |
+
+# 11. 矩阵
+
+|             题目              | 难度 |
+| :---------------------------: | :--: |
+| 剑指 Offer 29. 顺时针打印矩阵 | 简单 |
+|                               |      |
