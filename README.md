@@ -37,7 +37,7 @@
 |                             题目                             | 难度 |
 | :----------------------------------------------------------: | :--: |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/lzxjack/coding-interviews/blob/master/problems/50.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md) | 简单 |
-| [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/lzxjack/coding-interviews/blob/master/problems/55%20-%20II.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
+| [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/lzxjack/coding-interviews/blob/master/problems/56%20-%20II.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E6%95%B0%E5%AD%97%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0%20II.md) | 中等 |
 
 # 5. 链表
 
@@ -112,7 +112,7 @@
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/lzxjack/coding-interviews/blob/master/problems/15.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md) | 简单 |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/lzxjack/coding-interviews/blob/master/problems/17.%20%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.md) | 简单 |
 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/lzxjack/coding-interviews/blob/master/problems/39.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md) | 简单 |
-| [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/lzxjack/coding-interviews/blob/master/problems/55%20-%20II.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
+| [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/lzxjack/coding-interviews/blob/master/problems/56%20-%20I.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E6%95%B0%E5%AD%97%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md) | 中等 |
 | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/lzxjack/coding-interviews/blob/master/problems/61.%20%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%AD%90.md) | 简单 |
 | [剑指 Offer 62. 圆圈中最后剩下的数字](https://github.com/lzxjack/coding-interviews/blob/master/problems/62.%20%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%97.md) | 简单 |
 | [剑指 Offer 65. 不用加减乘除做加法](https://github.com/lzxjack/coding-interviews/blob/master/problems/65.%20%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md) | 简单 |
@@ -131,8 +131,8 @@
 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20I.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20II.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II.md) | 简单 |
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/lzxjack/coding-interviews/blob/master/problems/32%20-%20III.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20III.md) | 中等 |
-| [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/lzxjack/coding-interviews/blob/master/problems/53%20-%20II.%200%EF%BD%9En-1%E4%B8%AD%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 简单 |
-| [剑指 Offer 55 - I. 二叉树的深度](https://github.com/lzxjack/coding-interviews/blob/master/problems/53%20-%20II.%200%EF%BD%9En-1%E4%B8%AD%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 简单 |
+| [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/lzxjack/coding-interviews/blob/master/problems/54.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.md) | 简单 |
+| [剑指 Offer 55 - I. 二叉树的深度](https://github.com/lzxjack/coding-interviews/blob/master/problems/55%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md) | 简单 |
 | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://github.com/lzxjack/coding-interviews/blob/master/problems/68%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 简单 |
 
 # 15. 堆
