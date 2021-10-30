@@ -7,20 +7,3 @@ const lastRemaining = (n, m) => {
     }
     return res;
 };
-
-// const lastRemaining = (n, m) => {
-//     const nums = [];
-//     for (let i = 0; i < n; i++) {
-//         nums.push(i);
-//     }
-//     let p = 0;
-
-//     while (nums.length > 1) {
-//         p = p + m - 1;
-//         while (p > nums.length - 1) {
-//             p = p - nums.length;
-//         }
-//         nums.splice(p, 1);
-//     }
-//     return nums[0];
-// };

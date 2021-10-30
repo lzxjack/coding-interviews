@@ -4,18 +4,15 @@
 // 3. 它的左、右子树也分别为二叉排序树。
 
 const kthLargest = (root, k) => {
-    // 中序遍历(访问右节点在前)：右-根-左
-    const unInOrder = (node, arr = []) => {
-        if (node) {
-            unInOrder(node.right, arr);
-            arr.push(node.val);
-            unInOrder(node.left, arr);
-        }
-        return arr;
+    // 遍历顺序(访问右节点在前)：右-根-左
+    const unInOrder = node => {
+        if (!node) return;
+        unInOrder(node.right);
+        res.push(node.val);
+        unInOrder(node.left);
     };
     const res = [];
     unInOrder(root, res);
     // 得到从大到小排序的数组
-    // console.log(res);
     return res[k - 1];
 };

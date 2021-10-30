@@ -1,9 +1,6 @@
 const reverseLeftWords = (s, k) => {
-    const arr = s.split('');
-    const double = [...arr, ...arr];
-    const len = arr.length;
+    const len = s.length;
     const n = k % len;
-    return double.slice(n, n + len).join('');
+    const double = `${s}${s}`;
+    return double.slice(n, n + len);
 };
-
-reverseLeftWords('abcd', 3);

@@ -1,23 +1,22 @@
 const singleNumbers = nums => {
-    // res是两个不同的数，异或的结果
-    let res = 0;
-    nums.forEach(num => (res ^= num));
-
-    // target用来找两个不同的数，在二进制哪一位上不同
-    // target初始值0001
-    let target = 1;
-    while ((target & res) === 0) {
-        target = target << 1;
+    let temp = 0;
+    const len = nums.length;
+    for (let i = 0; i < len; i++) {
+        temp = temp ^ nums[i];
     }
+    // 此时temp是两个不同的数异或的结果
+    // 寻找k，k是temp最低位为1、其余位是0的二进制数
+    let k = 1;
+    while ((temp & k) === 0) k = k << 1;
 
-    // 分成两组，两组分别与a、b异或
-    let [a, b] = [0, 0];
-    nums.forEach(num => {
-        if ((num & target) === 0) {
-            a ^= num;
+    let [num1, num2] = [0, 0];
+    for (let i = 0; i < len; i++) {
+        // 分组，目的是将两个不同的数分开
+        if (nums[i] & k) {
+            num1 = num1 ^ nums[i];
         } else {
-            b ^= num;
+            num2 = num2 ^ nums[i];
         }
-    });
-    return [a, b];
+    }
+    return [num1, num2];
 };
