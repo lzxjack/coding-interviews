@@ -64,27 +64,27 @@ class Heap {
 
 class MedianFinder {
   constructor() {
-    // 最大堆
-    this.A = new Heap();
     // 最小堆
-    this.B = new Heap((x, y) => x < y);
+    this.min = new Heap((x, y) => x < y);
+    // 最大堆
+    this.max = new Heap();
   }
   addNum(num) {
-    if (this.A.size() !== this.B.size()) {
-      // 当N为奇数，需要向B添加一个元素
-      // 先将num插入A，再将A堆顶弹出，插入B
-      this.A.insert(num);
-      this.B.insert(this.A.pop());
+    if (this.max.size() !== this.min.size()) {
+      // 当N为奇数，需要向min添加一个元素
+      // 先将num插入max，再将max堆顶弹出，插入min
+      this.max.insert(num);
+      this.min.insert(this.max.pop());
     } else {
-      // 当N为偶数，需要向A添加一个元素
-      // 先将num插入B，再将B堆顶弹出，插入A
-      this.B.insert(num);
-      this.A.insert(this.B.pop());
+      // 当N为偶数，需要向max添加一个元素
+      // 先将num插入min，再将min堆顶弹出，插入max
+      this.min.insert(num);
+      this.max.insert(this.min.pop());
     }
   }
   findMedian() {
-    return this.A.container.length === this.B.container.length
-      ? (this.A.peek() + this.B.peek()) / 2
-      : this.A.peek();
+    return this.max.container.length === this.min.container.length
+      ? (this.max.peek() + this.min.peek()) / 2
+      : this.max.peek();
   }
 }
